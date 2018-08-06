@@ -1,0 +1,12 @@
+name: testShiny
+title: testShiny
+username:
+account: kyawn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 395923
+bundleId: 1520667
+url: https://kyawn.shinyapps.io/testShiny/
+when: 1533562377.65902
+asMultiple: FALSE
+asStatic: FALSE
